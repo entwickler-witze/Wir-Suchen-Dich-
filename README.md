@@ -15,7 +15,7 @@ Inbesondere werden folgende Fähigkeiten gesucht:
 2: Programmierer. Flax wird in Swift für iOS und Java für Android programmiert. Dies wäre ideal. Eine Cross-Plattfrom, also umcodieren
   wäre auch möglich (z.B: Flutter). Kenntnisse mit Datenbanken (SQL, MYSQL, NOSQL) defintiv vorteilhaft. Auch Cloud-Storage und dessen Implementierung wären ein gutes Zusatzwissen.
   
-  Du hast Interesse, oder eventuell andere Fähigkeiten, die der App weiterhelfen können? Oder eine besondere Reichweite (Influencer)?
+  Du hast Interesse, oder eventuell andere Fähigkeiten, die der App weiterhelfen können? Oder eine besondere Reichweite (Influencer)? Oder Du kennst jemanden, für den das interessant sein könnte?
   Dann schreib uns entweder in der App @Zashi oder eine Email an sasha.1996@web.de oder support.flax@magenta.de
   
   Wir freuen uns von dir zu hören!
